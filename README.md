@@ -1,13 +1,18 @@
 ### Olá eu sou a Yngrid Padilha ✌️
+Apaixonada por tecnologia, educação e por transformar vidas através da programação.
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yngrid-padilha-8ba3601a5/)
+<div>
+  
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=yngridp&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yngridp&layout=compact&langs_count=16&theme=great-gatsby"/>
+</div>
+<br>
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/Yngrid%20Padilha#4744)
 
-![Yngrid GitHub stats](https://github-readme-stats.vercel.app/api?username=yngridp&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yngridp)](https://github.com/anuraghazra/github-readme-stats)
 
-## Tecnologia que eu uso <3
+<div  align="center"> 
+  <div style="display: inline_block"><br>
+    <h1 align="center">Melhores Tecnologias <3</h1>
 
 <div style="display: inline_block"><br/> 
 <img aign="center" alt=html src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -20,8 +25,11 @@
 
 </div><br/>
 
-Apaixonada por tecnologia, educação e por transformar vidas através da programação.
+
 
 ## Contato:
 yngrid_padilha@hotmail.com
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yngrid-padilha-8ba3601a5/)
+
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/Yngrid%20Padilha#4744)
 
