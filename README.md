@@ -3,8 +3,8 @@ Apaixonada por tecnologia, educação e por transformar vidas através da progra
 
 <div>
   
-  <img  height="170" src="https://github-readme-stats.vercel.app/api?username=yngridp&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yngridp&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <img  height="160" src="https://github-readme-stats.vercel.app/api?username=yngridp&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="right" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yngridp&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 <br>
 
