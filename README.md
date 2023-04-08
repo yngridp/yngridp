@@ -7,7 +7,7 @@
 ![Yngrid GitHub stats](https://github-readme-stats.vercel.app/api?username=yngridp&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yngridp)](https://github.com/anuraghazra/github-readme-stats)
 
-## Tecnologia que eu uso 
+## Tecnologia que eu uso <3
 
 <div style="display: inline_block"><br/> 
 <img aign="center" alt=html src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
