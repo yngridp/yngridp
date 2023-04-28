@@ -4,7 +4,7 @@ Apaixonada por tecnologia, educação e por transformar vidas através da progra
 <div>
   
   <img  height="160" src="https://github-readme-stats.vercel.app/api?username=yngridp&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yngridp&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <img align="right" height="160" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yngridp&show_icons=true&title_color=2AE98C&bg_color=18181B&text_color=FFFFFF&icon_color=2AE98C&height=180em)](https://github.com/yngridp/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yngridp&layout=compact&title_color=2AE98C&bg_color=18181B&text_color=FFFFFF&icon_color=2AE98C&height=100)](https://github.com/yngridpr/github-readme-stats)"/>
 </div>
 <br>
 
